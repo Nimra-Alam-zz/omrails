@@ -16,7 +16,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-
+.ds_store
 /node_modules
 /yarn-error.log
 
